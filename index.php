@@ -54,7 +54,7 @@
                     <div class="img-caption-hide"></div>
                     <img class="d-block w-100 img-fluid" src="img/solar_house.jpg" height="300px;" alt="First slide">
                     <div class="carousel-caption  d-md-block">
-                        <h2>Welcome to ICE Commercial power</span></h2>
+                        <h2 style="font-size:20px;">Welcome to ICE Commercial power</span></h2>
                        
                     </div>
                 </div>
@@ -62,7 +62,7 @@
                     <div class="img-caption-hide"></div>
                     <img class="d-block w-100" src="img/architecture.jpg" height="300px;" alt="Second slide">
                     <div class="carousel-caption d-md-block center-block" style="padding-bottom:-60px;">
-                        <h2>Commercial energy Re-invented</h2>
+                        <h2 style="font-size:20px;">Commercial energy Re-invented</h2>
                      </div>
                 </div>
             </div>
